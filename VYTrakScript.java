@@ -1,5 +1,0 @@
-publuc class VYTraScript{
-
-
-
-}
