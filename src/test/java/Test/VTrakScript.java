@@ -1,6 +1,6 @@
 package test;
 
-public class VTrakScript{
+public class VYTrakScript{
 
 
 }
