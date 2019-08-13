@@ -6,3 +6,4 @@ white
 yellow
 gray 
 darck balck
+purple
