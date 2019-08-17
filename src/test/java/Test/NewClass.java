@@ -8,5 +8,6 @@ public class NewClass {
     protected void test1(){
 
        System.out.println("Go to contactTest");
+       System.out.println("Go to contactTest VyTruck moddel");
     }
 }
